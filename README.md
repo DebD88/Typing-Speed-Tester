@@ -1,1 +1,1 @@
-# Typing-Speed-Tester
+Coded in HTML, CSS and Javascript
